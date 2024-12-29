@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prab Balasubramanian
 - 👀 I’m interested in Cricket, Squash, Tennis, Soccer and general sports and NOT interested much in most academics
-- 🌱 I’m currently learning Cloud
+- 🌱 I’m currently learning blockchain and solar analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
